@@ -142,3 +142,13 @@ textarea {
   background-color: rgb(218, 218, 255);
   cursor: pointer;
 }
+
+/*
+
+User Interface designers often create design mockups in 3-4 size depending on the available screen width:
+1. Mobile (extrasmall) : < 576px
+2. Tablet (small) : 576px - 768px
+3. Desktop (medium) : 768px - 992px
+4. (Optional) Large Desktop (large): > 992px
+
+ */
