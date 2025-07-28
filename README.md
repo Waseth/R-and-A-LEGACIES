@@ -16,6 +16,15 @@ Today, I laid the foundation for the site and began building out the structure f
 - **Job Opportunities section** — created:
   - A **card view** (visible on mobile)
   - A **responsive table** (visible from medium devices and up) using `@media` queries
+- **Application section** - I ensured it scales and sits properly across all screen sizes
+- **Footer section** - I really did not do much here,I just applied the necessary styles to the footer links
+
+Today I learnt:
+
+- **Using CSS media queries and breakpoints to implement mobile-first responsive web design**
+- **Using CSS flexbox to build fluid and dynamic layouts**
+- **Creating wireframes to determine the layout  of a web page at various breakpoints**
+
 
 ### Challenge Faced
 
@@ -44,4 +53,6 @@ Switching between views (mobile, tablet, desktop) to verify layout consistency t
 - FreeCodeCamp Youtube Tutorial: [Web Development with HTML & CSS - Full course for Begginers](https://www.youtube.com/watch?v=dX8396ZmSPk&t=40518s)
 
 ---
+
+**Stay tuned for day 2 where I will code a mockup of a figma design and finally make it responsive on all devices**
 
