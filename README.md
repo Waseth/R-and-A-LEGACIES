@@ -4,7 +4,7 @@ This project is part of my ongoing journey to master **Responsive Web Design**, 
 
 ---
 
-## Day One — 28th July
+## Day One — 28th July 2025
 
 ### What I Worked On
 
@@ -41,7 +41,7 @@ Switching between views (mobile, tablet, desktop) to verify layout consistency t
 
 ## Learning Resource
 
-- FreeCodeCamp Youtube Tutorial: [Web Development with HTML & CSS - Full course for Begginers]
+- FreeCodeCamp Youtube Tutorial: [Web Development with HTML & CSS - Full course for Begginers](https://www.youtube.com/watch?v=dX8396ZmSPk&t=40518s)
 
 ---
 
